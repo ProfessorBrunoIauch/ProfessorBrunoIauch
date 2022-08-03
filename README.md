@@ -1,4 +1,4 @@
-# Prof. Bruno Iauch Lopes
+# Prof. Bruno Iauch 
 ## Professor de Ensino Médio
 ### Matérias: Filosofia, Sociologia, Projeto de Vida e Pensamento Computacional
 
